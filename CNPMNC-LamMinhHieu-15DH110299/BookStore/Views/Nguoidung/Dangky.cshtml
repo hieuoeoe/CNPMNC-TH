@@ -1,0 +1,101 @@
+﻿@model BookStore.Models.KHACHHANG
+@{
+    ViewBag.Title = "Dangky";
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+}
+<h2 style="text-align:center">ĐĂNG KÝ</h2>
+<p style="text-align:center">
+    @using (Html.BeginForm())
+    {
+        @Html.ValidationSummary(true)
+
+        <fieldset>
+            @*Họ tên KH*@
+            <div class="editor-label">
+                <h4>
+                    Họ tên
+                </h4>
+            </div>
+            <div class="editor-field">
+                @Html.TextBox("HotenKH")
+            </div>
+            @ViewData["Loi1"]
+            @*Tên đăng nhập*@
+            <div class="editor-label">
+                <h4>
+                    Tên đăng nhập
+                </h4>
+            </div>
+            <div class="editor-field">
+                @Html.TextBox("TenDN")
+            </div>
+            @ViewData["Loi2"]
+            @*Mật khẩu*@
+            <div class="editor-label">
+                <h4>
+                    Nhập mật khẩu
+                </h4>
+            </div>
+            <div class="editor-field">
+                @Html.Password("Matkhau")
+            </div>
+            @ViewData["Loi3"]
+            @*Nhập lại mật khẩu*@
+            <div class="editor-label">
+                <h4>
+                    Nhập lại mật khẩu
+                </h4>
+            </div>
+            <div class="editor-field">
+                @Html.Password("Matkhaunhaplai")
+            </div>
+            @ViewData["Loi4"]
+            @*Ngày sinh*@
+            <div class="editor-label">
+                <h4>
+                    Ngày sinh
+                </h4>
+            </div>
+            <div class="editor-field">
+                <input type="date" name="Ngaysinh" />
+            </div>
+            @*Email*@
+            <div class="editor-label">
+                <h4>
+                    Email
+                </h4>
+            </div>
+            <div class="editor-field">
+                @Html.TextBox("Email")
+            </div>
+            @ViewData["Loi5"]
+            @*Đỉa chỉ KH*@
+            <div class="editor-label">
+                <h4>
+                    Địa chỉ KH
+                </h4>
+            </div>
+            <div class="editor-field">
+                @Html.TextBox("Diachi")
+            </div>
+            @*Điện thoại*@
+            <div class="editor-label">
+                <h4>
+                    Điện thoại
+                </h4>
+            </div>
+            <div class="editor-field">
+                @Html.TextBox("Dienthoai")
+            </div>
+            @ViewData["Loi6"]
+            <div>
+    <p>
+        <input type="submit" value="Đăng Ký" /> |
+        <button>
+            @Html.ActionLink("Quay về", "Index","BookStore")
+        </button>
+    </p>
+    </div>
+    </fieldset>
+    }
+    </p>

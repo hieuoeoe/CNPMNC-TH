@@ -1,0 +1,167 @@
+c:\users\duydang\documents\visual studio 2015\Projects\CNPMNC\BookStore\bin\ApplicationInsights.config
+c:\users\duydang\documents\visual studio 2015\Projects\CNPMNC\BookStore\bin\roslyn\csc.exe
+c:\users\duydang\documents\visual studio 2015\Projects\CNPMNC\BookStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\duydang\documents\visual studio 2015\Projects\CNPMNC\BookStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\duydang\documents\visual studio 2015\Projects\CNPMNC\BookStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\duydang\documents\visual studio 2015\Projects\CNPMNC\BookStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\duydang\documents\visual studio 2015\Projects\CNPMNC\BookStore\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\duydang\documents\visual studio 2015\Projects\CNPMNC\BookStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\duydang\documents\visual studio 2015\Projects\CNPMNC\BookStore\bin\roslyn\System.Collections.Immutable.dll
+c:\users\duydang\documents\visual studio 2015\Projects\CNPMNC\BookStore\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\duydang\documents\visual studio 2015\Projects\CNPMNC\BookStore\bin\roslyn\vbc.exe
+c:\users\duydang\documents\visual studio 2015\Projects\CNPMNC\BookStore\bin\roslyn\VBCSCompiler.exe
+c:\users\duydang\documents\visual studio 2015\Projects\CNPMNC\BookStore\bin\roslyn\VBCSCompiler.exe.config
+c:\users\duydang\documents\visual studio 2015\Projects\CNPMNC\BookStore\bin\BookStore.dll.config
+c:\users\duydang\documents\visual studio 2015\Projects\CNPMNC\BookStore\bin\BookStore.dll
+c:\users\duydang\documents\visual studio 2015\Projects\CNPMNC\BookStore\bin\BookStore.pdb
+c:\users\duydang\documents\visual studio 2015\Projects\CNPMNC\BookStore\bin\Antlr3.Runtime.dll
+c:\users\duydang\documents\visual studio 2015\Projects\CNPMNC\BookStore\bin\EntityFramework.dll
+c:\users\duydang\documents\visual studio 2015\Projects\CNPMNC\BookStore\bin\EntityFramework.SqlServer.dll
+c:\users\duydang\documents\visual studio 2015\Projects\CNPMNC\BookStore\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\duydang\documents\visual studio 2015\Projects\CNPMNC\BookStore\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\duydang\documents\visual studio 2015\Projects\CNPMNC\BookStore\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\duydang\documents\visual studio 2015\Projects\CNPMNC\BookStore\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\duydang\documents\visual studio 2015\Projects\CNPMNC\BookStore\bin\Microsoft.AI.Web.dll
+c:\users\duydang\documents\visual studio 2015\Projects\CNPMNC\BookStore\bin\Microsoft.AI.WindowsServer.dll
+c:\users\duydang\documents\visual studio 2015\Projects\CNPMNC\BookStore\bin\Microsoft.ApplicationInsights.dll
+c:\users\duydang\documents\visual studio 2015\Projects\CNPMNC\BookStore\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\duydang\documents\visual studio 2015\Projects\CNPMNC\BookStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\duydang\documents\visual studio 2015\Projects\CNPMNC\BookStore\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\duydang\documents\visual studio 2015\Projects\CNPMNC\BookStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\duydang\documents\visual studio 2015\Projects\CNPMNC\BookStore\bin\Microsoft.Owin.dll
+c:\users\duydang\documents\visual studio 2015\Projects\CNPMNC\BookStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\duydang\documents\visual studio 2015\Projects\CNPMNC\BookStore\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\duydang\documents\visual studio 2015\Projects\CNPMNC\BookStore\bin\Microsoft.Owin.Security.dll
+c:\users\duydang\documents\visual studio 2015\Projects\CNPMNC\BookStore\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\duydang\documents\visual studio 2015\Projects\CNPMNC\BookStore\bin\Microsoft.Owin.Security.Google.dll
+c:\users\duydang\documents\visual studio 2015\Projects\CNPMNC\BookStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\duydang\documents\visual studio 2015\Projects\CNPMNC\BookStore\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\duydang\documents\visual studio 2015\Projects\CNPMNC\BookStore\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\duydang\documents\visual studio 2015\Projects\CNPMNC\BookStore\bin\Microsoft.Web.Infrastructure.dll
+c:\users\duydang\documents\visual studio 2015\Projects\CNPMNC\BookStore\bin\Newtonsoft.Json.dll
+c:\users\duydang\documents\visual studio 2015\Projects\CNPMNC\BookStore\bin\Owin.dll
+c:\users\duydang\documents\visual studio 2015\Projects\CNPMNC\BookStore\bin\System.Web.Helpers.dll
+c:\users\duydang\documents\visual studio 2015\Projects\CNPMNC\BookStore\bin\System.Web.Mvc.dll
+c:\users\duydang\documents\visual studio 2015\Projects\CNPMNC\BookStore\bin\System.Web.Optimization.dll
+c:\users\duydang\documents\visual studio 2015\Projects\CNPMNC\BookStore\bin\System.Web.Razor.dll
+c:\users\duydang\documents\visual studio 2015\Projects\CNPMNC\BookStore\bin\System.Web.WebPages.Deployment.dll
+c:\users\duydang\documents\visual studio 2015\Projects\CNPMNC\BookStore\bin\System.Web.WebPages.dll
+c:\users\duydang\documents\visual studio 2015\Projects\CNPMNC\BookStore\bin\System.Web.WebPages.Razor.dll
+c:\users\duydang\documents\visual studio 2015\Projects\CNPMNC\BookStore\bin\WebGrease.dll
+c:\users\duydang\documents\visual studio 2015\Projects\CNPMNC\BookStore\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\duydang\documents\visual studio 2015\Projects\CNPMNC\BookStore\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\duydang\documents\visual studio 2015\Projects\CNPMNC\BookStore\bin\Microsoft.AI.Web.xml
+c:\users\duydang\documents\visual studio 2015\Projects\CNPMNC\BookStore\bin\Microsoft.AI.WindowsServer.xml
+c:\users\duydang\documents\visual studio 2015\Projects\CNPMNC\BookStore\bin\Microsoft.ApplicationInsights.xml
+c:\users\duydang\documents\visual studio 2015\Projects\CNPMNC\BookStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\duydang\documents\visual studio 2015\Projects\CNPMNC\BookStore\bin\System.Web.Helpers.xml
+c:\users\duydang\documents\visual studio 2015\Projects\CNPMNC\BookStore\bin\System.Web.Mvc.xml
+c:\users\duydang\documents\visual studio 2015\Projects\CNPMNC\BookStore\bin\System.Web.Optimization.xml
+c:\users\duydang\documents\visual studio 2015\Projects\CNPMNC\BookStore\bin\System.Web.Razor.xml
+c:\users\duydang\documents\visual studio 2015\Projects\CNPMNC\BookStore\bin\System.Web.WebPages.xml
+c:\users\duydang\documents\visual studio 2015\Projects\CNPMNC\BookStore\bin\System.Web.WebPages.Deployment.xml
+c:\users\duydang\documents\visual studio 2015\Projects\CNPMNC\BookStore\bin\System.Web.WebPages.Razor.xml
+c:\users\duydang\documents\visual studio 2015\Projects\CNPMNC\BookStore\bin\Antlr3.Runtime.pdb
+c:\users\duydang\documents\visual studio 2015\Projects\CNPMNC\BookStore\bin\Newtonsoft.Json.xml
+c:\users\duydang\documents\visual studio 2015\Projects\CNPMNC\BookStore\bin\EntityFramework.xml
+c:\users\duydang\documents\visual studio 2015\Projects\CNPMNC\BookStore\bin\EntityFramework.SqlServer.xml
+c:\users\duydang\documents\visual studio 2015\Projects\CNPMNC\BookStore\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\duydang\documents\visual studio 2015\Projects\CNPMNC\BookStore\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\duydang\documents\visual studio 2015\Projects\CNPMNC\BookStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\duydang\documents\visual studio 2015\Projects\CNPMNC\BookStore\bin\Microsoft.Owin.xml
+c:\users\duydang\documents\visual studio 2015\Projects\CNPMNC\BookStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\duydang\documents\visual studio 2015\Projects\CNPMNC\BookStore\bin\Microsoft.Owin.Security.xml
+c:\users\duydang\documents\visual studio 2015\Projects\CNPMNC\BookStore\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\duydang\documents\visual studio 2015\Projects\CNPMNC\BookStore\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\duydang\documents\visual studio 2015\Projects\CNPMNC\BookStore\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\duydang\documents\visual studio 2015\Projects\CNPMNC\BookStore\bin\Microsoft.Owin.Security.Google.xml
+c:\users\duydang\documents\visual studio 2015\Projects\CNPMNC\BookStore\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\duydang\documents\visual studio 2015\Projects\CNPMNC\BookStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\duydang\documents\visual studio 2015\Projects\CNPMNC\BookStore\obj\Debug\BookStore.dll
+c:\users\duydang\documents\visual studio 2015\Projects\CNPMNC\BookStore\obj\Debug\BookStore.pdb
+C:\Users\DuyDang\documents\visual studio 2015\Projects\CNPMNC\BookStore\obj\Debug\BookStore.csprojResolveAssemblyReference.cache
+D:\CNPMNC\CNPMNC\CNPMNC\BookStore\bin\ApplicationInsights.config
+D:\CNPMNC\CNPMNC\CNPMNC\BookStore\bin\roslyn\csc.exe
+D:\CNPMNC\CNPMNC\CNPMNC\BookStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\CNPMNC\CNPMNC\CNPMNC\BookStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\CNPMNC\CNPMNC\CNPMNC\BookStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\CNPMNC\CNPMNC\CNPMNC\BookStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CNPMNC\CNPMNC\CNPMNC\BookStore\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\CNPMNC\CNPMNC\CNPMNC\BookStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\CNPMNC\CNPMNC\CNPMNC\BookStore\bin\roslyn\System.Collections.Immutable.dll
+D:\CNPMNC\CNPMNC\CNPMNC\BookStore\bin\roslyn\System.Reflection.Metadata.dll
+D:\CNPMNC\CNPMNC\CNPMNC\BookStore\bin\roslyn\vbc.exe
+D:\CNPMNC\CNPMNC\CNPMNC\BookStore\bin\roslyn\VBCSCompiler.exe
+D:\CNPMNC\CNPMNC\CNPMNC\BookStore\bin\roslyn\VBCSCompiler.exe.config
+D:\CNPMNC\CNPMNC\CNPMNC\BookStore\bin\BookStore.dll.config
+D:\CNPMNC\CNPMNC\CNPMNC\BookStore\bin\BookStore.dll
+D:\CNPMNC\CNPMNC\CNPMNC\BookStore\bin\BookStore.pdb
+D:\CNPMNC\CNPMNC\CNPMNC\BookStore\bin\Antlr3.Runtime.dll
+D:\CNPMNC\CNPMNC\CNPMNC\BookStore\bin\EntityFramework.dll
+D:\CNPMNC\CNPMNC\CNPMNC\BookStore\bin\EntityFramework.SqlServer.dll
+D:\CNPMNC\CNPMNC\CNPMNC\BookStore\bin\Microsoft.AI.Agent.Intercept.dll
+D:\CNPMNC\CNPMNC\CNPMNC\BookStore\bin\Microsoft.AI.DependencyCollector.dll
+D:\CNPMNC\CNPMNC\CNPMNC\BookStore\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\CNPMNC\CNPMNC\CNPMNC\BookStore\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\CNPMNC\CNPMNC\CNPMNC\BookStore\bin\Microsoft.AI.Web.dll
+D:\CNPMNC\CNPMNC\CNPMNC\BookStore\bin\Microsoft.AI.WindowsServer.dll
+D:\CNPMNC\CNPMNC\CNPMNC\BookStore\bin\Microsoft.ApplicationInsights.dll
+D:\CNPMNC\CNPMNC\CNPMNC\BookStore\bin\Microsoft.AspNet.Identity.Core.dll
+D:\CNPMNC\CNPMNC\CNPMNC\BookStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\CNPMNC\CNPMNC\CNPMNC\BookStore\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\CNPMNC\CNPMNC\CNPMNC\BookStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\CNPMNC\CNPMNC\CNPMNC\BookStore\bin\Microsoft.Owin.dll
+D:\CNPMNC\CNPMNC\CNPMNC\BookStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\CNPMNC\CNPMNC\CNPMNC\BookStore\bin\Microsoft.Owin.Security.Cookies.dll
+D:\CNPMNC\CNPMNC\CNPMNC\BookStore\bin\Microsoft.Owin.Security.dll
+D:\CNPMNC\CNPMNC\CNPMNC\BookStore\bin\Microsoft.Owin.Security.Facebook.dll
+D:\CNPMNC\CNPMNC\CNPMNC\BookStore\bin\Microsoft.Owin.Security.Google.dll
+D:\CNPMNC\CNPMNC\CNPMNC\BookStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\CNPMNC\CNPMNC\CNPMNC\BookStore\bin\Microsoft.Owin.Security.OAuth.dll
+D:\CNPMNC\CNPMNC\CNPMNC\BookStore\bin\Microsoft.Owin.Security.Twitter.dll
+D:\CNPMNC\CNPMNC\CNPMNC\BookStore\bin\Microsoft.Web.Infrastructure.dll
+D:\CNPMNC\CNPMNC\CNPMNC\BookStore\bin\Newtonsoft.Json.dll
+D:\CNPMNC\CNPMNC\CNPMNC\BookStore\bin\Owin.dll
+D:\CNPMNC\CNPMNC\CNPMNC\BookStore\bin\System.Web.Helpers.dll
+D:\CNPMNC\CNPMNC\CNPMNC\BookStore\bin\System.Web.Mvc.dll
+D:\CNPMNC\CNPMNC\CNPMNC\BookStore\bin\System.Web.Optimization.dll
+D:\CNPMNC\CNPMNC\CNPMNC\BookStore\bin\System.Web.Razor.dll
+D:\CNPMNC\CNPMNC\CNPMNC\BookStore\bin\System.Web.WebPages.Deployment.dll
+D:\CNPMNC\CNPMNC\CNPMNC\BookStore\bin\System.Web.WebPages.dll
+D:\CNPMNC\CNPMNC\CNPMNC\BookStore\bin\System.Web.WebPages.Razor.dll
+D:\CNPMNC\CNPMNC\CNPMNC\BookStore\bin\WebGrease.dll
+D:\CNPMNC\CNPMNC\CNPMNC\BookStore\bin\Microsoft.AI.DependencyCollector.xml
+D:\CNPMNC\CNPMNC\CNPMNC\BookStore\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\CNPMNC\CNPMNC\CNPMNC\BookStore\bin\Microsoft.AI.Web.xml
+D:\CNPMNC\CNPMNC\CNPMNC\BookStore\bin\Microsoft.AI.WindowsServer.xml
+D:\CNPMNC\CNPMNC\CNPMNC\BookStore\bin\Microsoft.ApplicationInsights.xml
+D:\CNPMNC\CNPMNC\CNPMNC\BookStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\CNPMNC\CNPMNC\CNPMNC\BookStore\bin\System.Web.Helpers.xml
+D:\CNPMNC\CNPMNC\CNPMNC\BookStore\bin\System.Web.Mvc.xml
+D:\CNPMNC\CNPMNC\CNPMNC\BookStore\bin\System.Web.Optimization.xml
+D:\CNPMNC\CNPMNC\CNPMNC\BookStore\bin\System.Web.Razor.xml
+D:\CNPMNC\CNPMNC\CNPMNC\BookStore\bin\System.Web.WebPages.xml
+D:\CNPMNC\CNPMNC\CNPMNC\BookStore\bin\System.Web.WebPages.Deployment.xml
+D:\CNPMNC\CNPMNC\CNPMNC\BookStore\bin\System.Web.WebPages.Razor.xml
+D:\CNPMNC\CNPMNC\CNPMNC\BookStore\bin\Antlr3.Runtime.pdb
+D:\CNPMNC\CNPMNC\CNPMNC\BookStore\bin\Newtonsoft.Json.xml
+D:\CNPMNC\CNPMNC\CNPMNC\BookStore\bin\EntityFramework.xml
+D:\CNPMNC\CNPMNC\CNPMNC\BookStore\bin\EntityFramework.SqlServer.xml
+D:\CNPMNC\CNPMNC\CNPMNC\BookStore\bin\Microsoft.AspNet.Identity.Core.xml
+D:\CNPMNC\CNPMNC\CNPMNC\BookStore\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\CNPMNC\CNPMNC\CNPMNC\BookStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\CNPMNC\CNPMNC\CNPMNC\BookStore\bin\Microsoft.Owin.xml
+D:\CNPMNC\CNPMNC\CNPMNC\BookStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\CNPMNC\CNPMNC\CNPMNC\BookStore\bin\Microsoft.Owin.Security.xml
+D:\CNPMNC\CNPMNC\CNPMNC\BookStore\bin\Microsoft.Owin.Security.Facebook.xml
+D:\CNPMNC\CNPMNC\CNPMNC\BookStore\bin\Microsoft.Owin.Security.Cookies.xml
+D:\CNPMNC\CNPMNC\CNPMNC\BookStore\bin\Microsoft.Owin.Security.OAuth.xml
+D:\CNPMNC\CNPMNC\CNPMNC\BookStore\bin\Microsoft.Owin.Security.Google.xml
+D:\CNPMNC\CNPMNC\CNPMNC\BookStore\bin\Microsoft.Owin.Security.Twitter.xml
+D:\CNPMNC\CNPMNC\CNPMNC\BookStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\CNPMNC\CNPMNC\CNPMNC\BookStore\obj\Debug\BookStore.dll
+D:\CNPMNC\CNPMNC\CNPMNC\BookStore\obj\Debug\BookStore.pdb
+D:\CNPMNC\CNPMNC\CNPMNC\BookStore\bin\PagedList.dll
+D:\CNPMNC\CNPMNC\CNPMNC\BookStore\bin\PagedList.Mvc.dll
+D:\CNPMNC\CNPMNC\CNPMNC\BookStore\bin\PagedList.xml
+D:\CNPMNC\CNPMNC\CNPMNC\BookStore\bin\PagedList.Mvc.xml
